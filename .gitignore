@@ -1,0 +1,8 @@
+# Project exclude paths
+/component-app/dist/
+/component-app/node_modules/
+/main-app/dist/
+/main-app/node_modules/
+/node_modules/
+/store-app/dist/
+/store-app/node_modules/
